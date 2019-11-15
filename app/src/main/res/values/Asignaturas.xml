@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="asignaturas">
+        <item>Programacion 1</item>
+        <item>Programacion 2</item>
+        <item>Estructura de datos</item>
+        <item>Dispositivos moviles</item>
+    </string-array>
+</resources>

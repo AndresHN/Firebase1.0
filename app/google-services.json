@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "230649741254",
+    "firebase_url": "https://itinerario-a1aa2.firebaseio.com",
+    "project_id": "itinerario-a1aa2",
+    "storage_bucket": "itinerario-a1aa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230649741254:android:fc177f16d9e5bc33e2bcc7",
+        "android_client_info": {
+          "package_name": "com.example.proyectoautenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "230649741254-lofsob2br1r1qdii9kmto88rasi1decl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.proyectoautenticacion",
+            "certificate_hash": "a83dd8c2ef08101b938947f722b40f65184a4077"
+          }
+        },
+        {
+          "client_id": "230649741254-g94mrj5t6poquk283l5j8erhelkne8qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGq1YFR04Pa6PIycQVGaaHxkjlrMkVpr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "230649741254-g94mrj5t6poquk283l5j8erhelkne8qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

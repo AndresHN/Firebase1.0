@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Itinerario</string>
+    <string name="app_seccion">Sección</string>
+    <string name="app_area">Asignatura</string>
+    <string name="app_tema">Escriba el tema</string>
+    <string name="app_reg">Registrar clase</string>
+    <string name="enter_usuario">Ingrese usuario</string>
+    <string name="enter_password">Contraseña</string>
+    <string name="ingresar">Ingresar</string>
+
+</resources>
+
